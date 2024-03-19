@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: black;
+    color:greenyellow;
+    font-size: 12pt;
+    font-family:Arial;
+    }
+    
+h1
+{
+  color: purple;
+  font-size: 20pt;
+}
+ul
+{
+  color: purple ;
+  font-size: 12pt;
+}
+h2   
+{
+  color: greenyellow ;
+  font-size: 12pt;
+}

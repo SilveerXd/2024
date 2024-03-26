@@ -1,25 +1,29 @@
 @charset "UTF-8";
 
 body
-{
+{   background-image: linear-gradient(90deg,rgb(34, 6, 6), rgba(247, 51, 83, 0.849));
     background-color: black;
-    color:greenyellow;
     font-size: 12pt;
-    font-family:Arial;
-    }
-    
+    font-family: Arial;
+    text-align: center;
+    text-decoration:none;   
+}
+
 h1
 {
-  color: purple;
-  font-size: 20pt;
+  color: white;
+  font-size: 25pt;
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration:none;
 }
-ul
+h2
 {
-  color: purple ;
+  color: rgb(255, 120, 30) ;
   font-size: 12pt;
+  text-align: center;
+  text-decoration:none;
+  list-style-type: none;
 }
-h2   
-{
-  color: greenyellow ;
-  font-size: 12pt;
-}
+
+

@@ -43,3 +43,24 @@ a
   list-style-type: none;
 
 }
+.SG
+{
+  color:blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20;
+}
+.sas
+{
+  color: red;
+  font-family: Arial, Helvetica, sans-serif ;
+  font-size: 16;
+}
+#spec
+{
+
+  color: darkblue;
+  font-size: 16;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
